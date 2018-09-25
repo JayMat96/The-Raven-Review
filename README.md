@@ -1,11 +1,10 @@
 # The-Raven-Review
 Game Review of the stealth-based game The Raven
 
-Game Review
- (Links to an external site.)Links to an external site.Details
-Game Title:
- (Links to an external site.)Links to an external site.Summary
+[Play The Raven here](https://armorgames.com/play/10003/the-raven?tag-referral=stealth)
+
+## Summary
 This game is about...
 
- (Links to an external site.)Links to an external site.Final Thoughts
-Was it fun...
+## Final Thoughts
+ Was it fun...
